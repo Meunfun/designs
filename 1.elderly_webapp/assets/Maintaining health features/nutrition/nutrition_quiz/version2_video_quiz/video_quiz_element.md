@@ -1,0 +1,4 @@
+This feature was initially designed as a static background with multiple-choice questions for users to click through. However, I found it not engaging enough, so I redesigned it as an interactive journey. Instead of a static format, users are guided through the questions via a sequence of videos. A video plays for each question, and if the user answers incorrectly, a fail video is triggered and the flow returns to the previous question. The journey continues only when the correct answer is selected.
+
+[Click here to view the video elements](https://drive.google.com/drive/folders/1X2O0l2AIgqQtnF7mvz3CqUtoE1S9Uw8n?usp=drive_link) used in this experience, all integrated with the question flow.\
+The main character was created with the help of ChatGPT and the backgrounds were designed in Canva using a combination of multiple elements.
